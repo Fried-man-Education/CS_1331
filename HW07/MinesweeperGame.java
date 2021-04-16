@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.HashSet;
 public class MinesweeperGame {
-	private final boolean TESTING_MODE = true;
+	private final boolean TESTING_MODE = false;
 	private Tile[][] minesweeperBoard;
     private boolean[][] isVisible;
 	private int numMines;
