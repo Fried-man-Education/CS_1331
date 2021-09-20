@@ -1,4 +1,4 @@
-# Georgia Tech's CS 1331
+# Georgia Tech's CS 1331 - Introduction to Object Oriented Programming
 ended class with an A :)
 ## Course Description
 Introduction to techniques and methods of object-oriented programming such as encapsulation, inheritance, and polymorphism. Emphasis on software development and individual programming skills.
